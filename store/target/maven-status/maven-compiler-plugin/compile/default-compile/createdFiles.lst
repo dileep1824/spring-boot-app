@@ -1,6 +1,0 @@
-com/project/ExceptionHandler/ResourceNotFoundException.class
-com/project/store/StoreApplication.class
-com/project/store/crudHandlers/FoodItem.class
-com/project/store/utils/StatusResponse.class
-com/project/store/crudHandlers/FoodItemRepository.class
-com/project/store/crudHandlers/FoodItemController.class
